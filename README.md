@@ -1,2 +1,2 @@
 # UniversityTycoon
-SQL
+SQLite
